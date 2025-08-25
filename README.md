@@ -1,28 +1,28 @@
-AI Chatbot
-A feature-rich Java-based chatbot with knowledge expert capabilities, math calculation functions, and a professional GUI interface.
+AI Chatbot\n
+A feature-rich Java-based chatbot with knowledge expert capabilities, math calculation functions, and a professional GUI interface.\n
 
--Features:
-Knowledge Expert: Explains concepts related to:
-Java programming
-Python programming
-Object-Oriented Programming (OOP)
-Artificial Intelligence (AI)
-General science topics
-Math Calculator: Solves basic arithmetic expressions
+-Features:\n
+Knowledge Expert: Explains concepts related to:\n
+Java programming\n
+Python programming\n
+Object-Oriented Programming (OOP)\n
+Artificial Intelligence (AI)\n
+General science topics\n
+Math Calculator: Solves basic arithmetic expressions\n
 
--Special Commands:
-help - Shows available commands and features
-stats - Displays chat statistics
-clear - Clears chat history
+-Special Commands:\n
+help - Shows available commands and features\n
+stats - Displays chat statistics\n
+clear - Clears chat history\n
 
--Professional GUI:
-Modern dark theme interface
-Real-time timestamps for each message
-Responsive design with intuitive controls
+-Professional GUI:\n
+Modern dark theme interface\n
+Real-time timestamps for each message\n
+Responsive design with intuitive controls\n
 
-*Contributing
-Feel free to fork this project and submit pull requests for any improvements. Some potential enhancements could include:
-Adding more knowledge domains
-Implementing more advanced math functions
-Adding database persistence for chat history
-Implementing machine learning for better responses
+*Contributing\n
+Feel free to fork this project and submit pull requests for any improvements. Some potential enhancements could include:\n
+Adding more knowledge domains\n
+Implementing more advanced math functions\n
+Adding database persistence for chat history\n
+Implementing machine learning for better responses\n
